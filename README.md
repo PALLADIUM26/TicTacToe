@@ -1,9 +1,9 @@
 # TicTacToe
 
 ## Game Details
- - CUI based
- - Single-player
- - made in Python
+ - `CUI based`
+ - `Single-player`
+ - `made in Python`
 
 Run the <a href="https://github.com/PALLADIUM26/TicTacToe/blob/main/MAIN.py">MAIN.py</a> file and start playing
 
