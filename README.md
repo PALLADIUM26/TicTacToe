@@ -5,7 +5,10 @@
  - `Single-player`
  - `made in Python`
 
-Run the <a href="https://github.com/PALLADIUM26/TicTacToe/blob/main/MAIN.py">MAIN.py</a> file and start playing: `py MAIN.py`
+Run the <a href="https://github.com/PALLADIUM26/TicTacToe/blob/main/MAIN.py">MAIN.py</a> file and start playing:
+```
+py MAIN.py
+```
 
 ### Easy level: <a href="https://github.com/PALLADIUM26/TicTacToe/blob/main/easy2.py">easy2.py</a><br>
  - Computer gives its turn at random places in the 3*3 matrix
